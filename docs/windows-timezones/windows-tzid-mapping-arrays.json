@@ -1,0 +1,3585 @@
+[
+    {
+        "windows": "AUS Central Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Australia/Darwin"
+        ]
+    },
+    {
+        "windows": "AUS Central Standard Time",
+        "Region": "AU",
+        "TZID": [
+            "Australia/Darwin"
+        ]
+    },
+    {
+        "windows": "AUS Eastern Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Australia/Sydney"
+        ]
+    },
+    {
+        "windows": "AUS Eastern Standard Time",
+        "Region": "AU",
+        "TZID": [
+            "Australia/Sydney",
+            "Australia/Melbourne"
+        ]
+    },
+    {
+        "windows": "Afghanistan Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Kabul"
+        ]
+    },
+    {
+        "windows": "Afghanistan Standard Time",
+        "Region": "AF",
+        "TZID": [
+            "Asia/Kabul"
+        ]
+    },
+    {
+        "windows": "Alaskan Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Anchorage"
+        ]
+    },
+    {
+        "windows": "Alaskan Standard Time",
+        "Region": "US",
+        "TZID": [
+            "America/Anchorage",
+            "America/Juneau",
+            "America/Metlakatla",
+            "America/Nome",
+            "America/Sitka",
+            "America/Yakutat"
+        ]
+    },
+    {
+        "windows": "Aleutian Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Adak"
+        ]
+    },
+    {
+        "windows": "Aleutian Standard Time",
+        "Region": "US",
+        "TZID": [
+            "America/Adak"
+        ]
+    },
+    {
+        "windows": "Altai Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Barnaul"
+        ]
+    },
+    {
+        "windows": "Altai Standard Time",
+        "Region": "RU",
+        "TZID": [
+            "Asia/Barnaul"
+        ]
+    },
+    {
+        "windows": "Arab Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Riyadh"
+        ]
+    },
+    {
+        "windows": "Arab Standard Time",
+        "Region": "BH",
+        "TZID": [
+            "Asia/Bahrain"
+        ]
+    },
+    {
+        "windows": "Arab Standard Time",
+        "Region": "KW",
+        "TZID": [
+            "Asia/Kuwait"
+        ]
+    },
+    {
+        "windows": "Arab Standard Time",
+        "Region": "QA",
+        "TZID": [
+            "Asia/Qatar"
+        ]
+    },
+    {
+        "windows": "Arab Standard Time",
+        "Region": "SA",
+        "TZID": [
+            "Asia/Riyadh"
+        ]
+    },
+    {
+        "windows": "Arab Standard Time",
+        "Region": "YE",
+        "TZID": [
+            "Asia/Aden"
+        ]
+    },
+    {
+        "windows": "Arabian Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Dubai"
+        ]
+    },
+    {
+        "windows": "Arabian Standard Time",
+        "Region": "AE",
+        "TZID": [
+            "Asia/Dubai"
+        ]
+    },
+    {
+        "windows": "Arabian Standard Time",
+        "Region": "OM",
+        "TZID": [
+            "Asia/Muscat"
+        ]
+    },
+    {
+        "windows": "Arabian Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT-4"
+        ]
+    },
+    {
+        "windows": "Arabic Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Baghdad"
+        ]
+    },
+    {
+        "windows": "Arabic Standard Time",
+        "Region": "IQ",
+        "TZID": [
+            "Asia/Baghdad"
+        ]
+    },
+    {
+        "windows": "Argentina Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Buenos_Aires"
+        ]
+    },
+    {
+        "windows": "Argentina Standard Time",
+        "Region": "AR",
+        "TZID": [
+            "America/Buenos_Aires",
+            "America/Argentina/La_Rioja",
+            "America/Argentina/Rio_Gallegos",
+            "America/Argentina/Salta",
+            "America/Argentina/San_Juan",
+            "America/Argentina/San_Luis",
+            "America/Argentina/Tucuman",
+            "America/Argentina/Ushuaia",
+            "America/Catamarca",
+            "America/Cordoba",
+            "America/Jujuy",
+            "America/Mendoza"
+        ]
+    },
+    {
+        "windows": "Astrakhan Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Europe/Astrakhan"
+        ]
+    },
+    {
+        "windows": "Astrakhan Standard Time",
+        "Region": "RU",
+        "TZID": [
+            "Europe/Astrakhan",
+            "Europe/Ulyanovsk"
+        ]
+    },
+    {
+        "windows": "Atlantic Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Halifax"
+        ]
+    },
+    {
+        "windows": "Atlantic Standard Time",
+        "Region": "BM",
+        "TZID": [
+            "Atlantic/Bermuda"
+        ]
+    },
+    {
+        "windows": "Atlantic Standard Time",
+        "Region": "CA",
+        "TZID": [
+            "America/Halifax",
+            "America/Glace_Bay",
+            "America/Goose_Bay",
+            "America/Moncton"
+        ]
+    },
+    {
+        "windows": "Atlantic Standard Time",
+        "Region": "GL",
+        "TZID": [
+            "America/Thule"
+        ]
+    },
+    {
+        "windows": "Aus Central W. Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Australia/Eucla"
+        ]
+    },
+    {
+        "windows": "Aus Central W. Standard Time",
+        "Region": "AU",
+        "TZID": [
+            "Australia/Eucla"
+        ]
+    },
+    {
+        "windows": "Azerbaijan Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Baku"
+        ]
+    },
+    {
+        "windows": "Azerbaijan Standard Time",
+        "Region": "AZ",
+        "TZID": [
+            "Asia/Baku"
+        ]
+    },
+    {
+        "windows": "Azores Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Atlantic/Azores"
+        ]
+    },
+    {
+        "windows": "Azores Standard Time",
+        "Region": "GL",
+        "TZID": [
+            "America/Scoresbysund"
+        ]
+    },
+    {
+        "windows": "Azores Standard Time",
+        "Region": "PT",
+        "TZID": [
+            "Atlantic/Azores"
+        ]
+    },
+    {
+        "windows": "Bahia Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Bahia"
+        ]
+    },
+    {
+        "windows": "Bahia Standard Time",
+        "Region": "BR",
+        "TZID": [
+            "America/Bahia"
+        ]
+    },
+    {
+        "windows": "Bangladesh Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Dhaka"
+        ]
+    },
+    {
+        "windows": "Bangladesh Standard Time",
+        "Region": "BD",
+        "TZID": [
+            "Asia/Dhaka"
+        ]
+    },
+    {
+        "windows": "Bangladesh Standard Time",
+        "Region": "BT",
+        "TZID": [
+            "Asia/Thimphu"
+        ]
+    },
+    {
+        "windows": "Belarus Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Europe/Minsk"
+        ]
+    },
+    {
+        "windows": "Belarus Standard Time",
+        "Region": "BY",
+        "TZID": [
+            "Europe/Minsk"
+        ]
+    },
+    {
+        "windows": "Bougainville Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Pacific/Bougainville"
+        ]
+    },
+    {
+        "windows": "Bougainville Standard Time",
+        "Region": "PG",
+        "TZID": [
+            "Pacific/Bougainville"
+        ]
+    },
+    {
+        "windows": "Canada Central Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Regina"
+        ]
+    },
+    {
+        "windows": "Canada Central Standard Time",
+        "Region": "CA",
+        "TZID": [
+            "America/Regina",
+            "America/Swift_Current"
+        ]
+    },
+    {
+        "windows": "Cape Verde Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Atlantic/Cape_Verde"
+        ]
+    },
+    {
+        "windows": "Cape Verde Standard Time",
+        "Region": "CV",
+        "TZID": [
+            "Atlantic/Cape_Verde"
+        ]
+    },
+    {
+        "windows": "Cape Verde Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT+1"
+        ]
+    },
+    {
+        "windows": "Caucasus Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Yerevan"
+        ]
+    },
+    {
+        "windows": "Caucasus Standard Time",
+        "Region": "AM",
+        "TZID": [
+            "Asia/Yerevan"
+        ]
+    },
+    {
+        "windows": "Cen. Australia Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Australia/Adelaide"
+        ]
+    },
+    {
+        "windows": "Cen. Australia Standard Time",
+        "Region": "AU",
+        "TZID": [
+            "Australia/Adelaide",
+            "Australia/Broken_Hill"
+        ]
+    },
+    {
+        "windows": "Central America Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Guatemala"
+        ]
+    },
+    {
+        "windows": "Central America Standard Time",
+        "Region": "BZ",
+        "TZID": [
+            "America/Belize"
+        ]
+    },
+    {
+        "windows": "Central America Standard Time",
+        "Region": "CR",
+        "TZID": [
+            "America/Costa_Rica"
+        ]
+    },
+    {
+        "windows": "Central America Standard Time",
+        "Region": "EC",
+        "TZID": [
+            "Pacific/Galapagos"
+        ]
+    },
+    {
+        "windows": "Central America Standard Time",
+        "Region": "GT",
+        "TZID": [
+            "America/Guatemala"
+        ]
+    },
+    {
+        "windows": "Central America Standard Time",
+        "Region": "HN",
+        "TZID": [
+            "America/Tegucigalpa"
+        ]
+    },
+    {
+        "windows": "Central America Standard Time",
+        "Region": "NI",
+        "TZID": [
+            "America/Managua"
+        ]
+    },
+    {
+        "windows": "Central America Standard Time",
+        "Region": "SV",
+        "TZID": [
+            "America/El_Salvador"
+        ]
+    },
+    {
+        "windows": "Central America Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT+6"
+        ]
+    },
+    {
+        "windows": "Central Asia Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Bishkek"
+        ]
+    },
+    {
+        "windows": "Central Asia Standard Time",
+        "Region": "AQ",
+        "TZID": [
+            "Antarctica/Vostok"
+        ]
+    },
+    {
+        "windows": "Central Asia Standard Time",
+        "Region": "CN",
+        "TZID": [
+            "Asia/Urumqi"
+        ]
+    },
+    {
+        "windows": "Central Asia Standard Time",
+        "Region": "IO",
+        "TZID": [
+            "Indian/Chagos"
+        ]
+    },
+    {
+        "windows": "Central Asia Standard Time",
+        "Region": "KG",
+        "TZID": [
+            "Asia/Bishkek"
+        ]
+    },
+    {
+        "windows": "Central Asia Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT-6"
+        ]
+    },
+    {
+        "windows": "Central Brazilian Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Cuiaba"
+        ]
+    },
+    {
+        "windows": "Central Brazilian Standard Time",
+        "Region": "BR",
+        "TZID": [
+            "America/Cuiaba",
+            "America/Campo_Grande"
+        ]
+    },
+    {
+        "windows": "Central Europe Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Europe/Budapest"
+        ]
+    },
+    {
+        "windows": "Central Europe Standard Time",
+        "Region": "AL",
+        "TZID": [
+            "Europe/Tirane"
+        ]
+    },
+    {
+        "windows": "Central Europe Standard Time",
+        "Region": "CZ",
+        "TZID": [
+            "Europe/Prague"
+        ]
+    },
+    {
+        "windows": "Central Europe Standard Time",
+        "Region": "HU",
+        "TZID": [
+            "Europe/Budapest"
+        ]
+    },
+    {
+        "windows": "Central Europe Standard Time",
+        "Region": "ME",
+        "TZID": [
+            "Europe/Podgorica"
+        ]
+    },
+    {
+        "windows": "Central Europe Standard Time",
+        "Region": "RS",
+        "TZID": [
+            "Europe/Belgrade"
+        ]
+    },
+    {
+        "windows": "Central Europe Standard Time",
+        "Region": "SI",
+        "TZID": [
+            "Europe/Ljubljana"
+        ]
+    },
+    {
+        "windows": "Central Europe Standard Time",
+        "Region": "SK",
+        "TZID": [
+            "Europe/Bratislava"
+        ]
+    },
+    {
+        "windows": "Central European Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Europe/Warsaw"
+        ]
+    },
+    {
+        "windows": "Central European Standard Time",
+        "Region": "BA",
+        "TZID": [
+            "Europe/Sarajevo"
+        ]
+    },
+    {
+        "windows": "Central European Standard Time",
+        "Region": "HR",
+        "TZID": [
+            "Europe/Zagreb"
+        ]
+    },
+    {
+        "windows": "Central European Standard Time",
+        "Region": "MK",
+        "TZID": [
+            "Europe/Skopje"
+        ]
+    },
+    {
+        "windows": "Central European Standard Time",
+        "Region": "PL",
+        "TZID": [
+            "Europe/Warsaw"
+        ]
+    },
+    {
+        "windows": "Central Pacific Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Pacific/Guadalcanal"
+        ]
+    },
+    {
+        "windows": "Central Pacific Standard Time",
+        "Region": "AQ",
+        "TZID": [
+            "Antarctica/Casey"
+        ]
+    },
+    {
+        "windows": "Central Pacific Standard Time",
+        "Region": "FM",
+        "TZID": [
+            "Pacific/Ponape",
+            "Pacific/Kosrae"
+        ]
+    },
+    {
+        "windows": "Central Pacific Standard Time",
+        "Region": "NC",
+        "TZID": [
+            "Pacific/Noumea"
+        ]
+    },
+    {
+        "windows": "Central Pacific Standard Time",
+        "Region": "SB",
+        "TZID": [
+            "Pacific/Guadalcanal"
+        ]
+    },
+    {
+        "windows": "Central Pacific Standard Time",
+        "Region": "VU",
+        "TZID": [
+            "Pacific/Efate"
+        ]
+    },
+    {
+        "windows": "Central Pacific Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT-11"
+        ]
+    },
+    {
+        "windows": "Central Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Chicago"
+        ]
+    },
+    {
+        "windows": "Central Standard Time",
+        "Region": "CA",
+        "TZID": [
+            "America/Winnipeg",
+            "America/Rankin_Inlet",
+            "America/Resolute"
+        ]
+    },
+    {
+        "windows": "Central Standard Time",
+        "Region": "MX",
+        "TZID": [
+            "America/Matamoros",
+            "America/Ojinaga"
+        ]
+    },
+    {
+        "windows": "Central Standard Time",
+        "Region": "US",
+        "TZID": [
+            "America/Chicago",
+            "America/Indiana/Knox",
+            "America/Indiana/Tell_City",
+            "America/Menominee",
+            "America/North_Dakota/Beulah",
+            "America/North_Dakota/Center",
+            "America/North_Dakota/New_Salem"
+        ]
+    },
+    {
+        "windows": "Central Standard Time (Mexico)",
+        "Region": "001",
+        "TZID": [
+            "America/Mexico_City"
+        ]
+    },
+    {
+        "windows": "Central Standard Time (Mexico)",
+        "Region": "MX",
+        "TZID": [
+            "America/Mexico_City",
+            "America/Bahia_Banderas",
+            "America/Merida",
+            "America/Monterrey",
+            "America/Chihuahua"
+        ]
+    },
+    {
+        "windows": "Chatham Islands Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Pacific/Chatham"
+        ]
+    },
+    {
+        "windows": "Chatham Islands Standard Time",
+        "Region": "NZ",
+        "TZID": [
+            "Pacific/Chatham"
+        ]
+    },
+    {
+        "windows": "China Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Shanghai"
+        ]
+    },
+    {
+        "windows": "China Standard Time",
+        "Region": "CN",
+        "TZID": [
+            "Asia/Shanghai"
+        ]
+    },
+    {
+        "windows": "China Standard Time",
+        "Region": "HK",
+        "TZID": [
+            "Asia/Hong_Kong"
+        ]
+    },
+    {
+        "windows": "China Standard Time",
+        "Region": "MO",
+        "TZID": [
+            "Asia/Macau"
+        ]
+    },
+    {
+        "windows": "Cuba Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Havana"
+        ]
+    },
+    {
+        "windows": "Cuba Standard Time",
+        "Region": "CU",
+        "TZID": [
+            "America/Havana"
+        ]
+    },
+    {
+        "windows": "Dateline Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Etc/GMT+12"
+        ]
+    },
+    {
+        "windows": "Dateline Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT+12"
+        ]
+    },
+    {
+        "windows": "E. Africa Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Africa/Nairobi"
+        ]
+    },
+    {
+        "windows": "E. Africa Standard Time",
+        "Region": "AQ",
+        "TZID": [
+            "Antarctica/Syowa"
+        ]
+    },
+    {
+        "windows": "E. Africa Standard Time",
+        "Region": "DJ",
+        "TZID": [
+            "Africa/Djibouti"
+        ]
+    },
+    {
+        "windows": "E. Africa Standard Time",
+        "Region": "ER",
+        "TZID": [
+            "Africa/Asmera"
+        ]
+    },
+    {
+        "windows": "E. Africa Standard Time",
+        "Region": "ET",
+        "TZID": [
+            "Africa/Addis_Ababa"
+        ]
+    },
+    {
+        "windows": "E. Africa Standard Time",
+        "Region": "KE",
+        "TZID": [
+            "Africa/Nairobi"
+        ]
+    },
+    {
+        "windows": "E. Africa Standard Time",
+        "Region": "KM",
+        "TZID": [
+            "Indian/Comoro"
+        ]
+    },
+    {
+        "windows": "E. Africa Standard Time",
+        "Region": "MG",
+        "TZID": [
+            "Indian/Antananarivo"
+        ]
+    },
+    {
+        "windows": "E. Africa Standard Time",
+        "Region": "SO",
+        "TZID": [
+            "Africa/Mogadishu"
+        ]
+    },
+    {
+        "windows": "E. Africa Standard Time",
+        "Region": "TZ",
+        "TZID": [
+            "Africa/Dar_es_Salaam"
+        ]
+    },
+    {
+        "windows": "E. Africa Standard Time",
+        "Region": "UG",
+        "TZID": [
+            "Africa/Kampala"
+        ]
+    },
+    {
+        "windows": "E. Africa Standard Time",
+        "Region": "YT",
+        "TZID": [
+            "Indian/Mayotte"
+        ]
+    },
+    {
+        "windows": "E. Africa Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT-3"
+        ]
+    },
+    {
+        "windows": "E. Australia Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Australia/Brisbane"
+        ]
+    },
+    {
+        "windows": "E. Australia Standard Time",
+        "Region": "AU",
+        "TZID": [
+            "Australia/Brisbane",
+            "Australia/Lindeman"
+        ]
+    },
+    {
+        "windows": "E. Europe Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Europe/Chisinau"
+        ]
+    },
+    {
+        "windows": "E. Europe Standard Time",
+        "Region": "MD",
+        "TZID": [
+            "Europe/Chisinau"
+        ]
+    },
+    {
+        "windows": "E. South America Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Sao_Paulo"
+        ]
+    },
+    {
+        "windows": "E. South America Standard Time",
+        "Region": "BR",
+        "TZID": [
+            "America/Sao_Paulo"
+        ]
+    },
+    {
+        "windows": "Easter Island Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Pacific/Easter"
+        ]
+    },
+    {
+        "windows": "Easter Island Standard Time",
+        "Region": "CL",
+        "TZID": [
+            "Pacific/Easter"
+        ]
+    },
+    {
+        "windows": "Eastern Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/New_York"
+        ]
+    },
+    {
+        "windows": "Eastern Standard Time",
+        "Region": "BS",
+        "TZID": [
+            "America/Nassau"
+        ]
+    },
+    {
+        "windows": "Eastern Standard Time",
+        "Region": "CA",
+        "TZID": [
+            "America/Toronto",
+            "America/Iqaluit"
+        ]
+    },
+    {
+        "windows": "Eastern Standard Time",
+        "Region": "US",
+        "TZID": [
+            "America/New_York",
+            "America/Detroit",
+            "America/Indiana/Petersburg",
+            "America/Indiana/Vincennes",
+            "America/Indiana/Winamac",
+            "America/Kentucky/Monticello",
+            "America/Louisville"
+        ]
+    },
+    {
+        "windows": "Eastern Standard Time (Mexico)",
+        "Region": "001",
+        "TZID": [
+            "America/Cancun"
+        ]
+    },
+    {
+        "windows": "Eastern Standard Time (Mexico)",
+        "Region": "MX",
+        "TZID": [
+            "America/Cancun"
+        ]
+    },
+    {
+        "windows": "Egypt Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Africa/Cairo"
+        ]
+    },
+    {
+        "windows": "Egypt Standard Time",
+        "Region": "EG",
+        "TZID": [
+            "Africa/Cairo"
+        ]
+    },
+    {
+        "windows": "Ekaterinburg Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Yekaterinburg"
+        ]
+    },
+    {
+        "windows": "Ekaterinburg Standard Time",
+        "Region": "RU",
+        "TZID": [
+            "Asia/Yekaterinburg"
+        ]
+    },
+    {
+        "windows": "FLE Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Europe/Kiev"
+        ]
+    },
+    {
+        "windows": "FLE Standard Time",
+        "Region": "AX",
+        "TZID": [
+            "Europe/Mariehamn"
+        ]
+    },
+    {
+        "windows": "FLE Standard Time",
+        "Region": "BG",
+        "TZID": [
+            "Europe/Sofia"
+        ]
+    },
+    {
+        "windows": "FLE Standard Time",
+        "Region": "EE",
+        "TZID": [
+            "Europe/Tallinn"
+        ]
+    },
+    {
+        "windows": "FLE Standard Time",
+        "Region": "FI",
+        "TZID": [
+            "Europe/Helsinki"
+        ]
+    },
+    {
+        "windows": "FLE Standard Time",
+        "Region": "LT",
+        "TZID": [
+            "Europe/Vilnius"
+        ]
+    },
+    {
+        "windows": "FLE Standard Time",
+        "Region": "LV",
+        "TZID": [
+            "Europe/Riga"
+        ]
+    },
+    {
+        "windows": "FLE Standard Time",
+        "Region": "UA",
+        "TZID": [
+            "Europe/Kiev"
+        ]
+    },
+    {
+        "windows": "Fiji Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Pacific/Fiji"
+        ]
+    },
+    {
+        "windows": "Fiji Standard Time",
+        "Region": "FJ",
+        "TZID": [
+            "Pacific/Fiji"
+        ]
+    },
+    {
+        "windows": "GMT Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Europe/London"
+        ]
+    },
+    {
+        "windows": "GMT Standard Time",
+        "Region": "ES",
+        "TZID": [
+            "Atlantic/Canary"
+        ]
+    },
+    {
+        "windows": "GMT Standard Time",
+        "Region": "FO",
+        "TZID": [
+            "Atlantic/Faeroe"
+        ]
+    },
+    {
+        "windows": "GMT Standard Time",
+        "Region": "GB",
+        "TZID": [
+            "Europe/London"
+        ]
+    },
+    {
+        "windows": "GMT Standard Time",
+        "Region": "GG",
+        "TZID": [
+            "Europe/Guernsey"
+        ]
+    },
+    {
+        "windows": "GMT Standard Time",
+        "Region": "IE",
+        "TZID": [
+            "Europe/Dublin"
+        ]
+    },
+    {
+        "windows": "GMT Standard Time",
+        "Region": "IM",
+        "TZID": [
+            "Europe/Isle_of_Man"
+        ]
+    },
+    {
+        "windows": "GMT Standard Time",
+        "Region": "JE",
+        "TZID": [
+            "Europe/Jersey"
+        ]
+    },
+    {
+        "windows": "GMT Standard Time",
+        "Region": "PT",
+        "TZID": [
+            "Europe/Lisbon",
+            "Atlantic/Madeira"
+        ]
+    },
+    {
+        "windows": "GTB Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Europe/Bucharest"
+        ]
+    },
+    {
+        "windows": "GTB Standard Time",
+        "Region": "CY",
+        "TZID": [
+            "Asia/Nicosia",
+            "Asia/Famagusta"
+        ]
+    },
+    {
+        "windows": "GTB Standard Time",
+        "Region": "GR",
+        "TZID": [
+            "Europe/Athens"
+        ]
+    },
+    {
+        "windows": "GTB Standard Time",
+        "Region": "RO",
+        "TZID": [
+            "Europe/Bucharest"
+        ]
+    },
+    {
+        "windows": "Georgian Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Tbilisi"
+        ]
+    },
+    {
+        "windows": "Georgian Standard Time",
+        "Region": "GE",
+        "TZID": [
+            "Asia/Tbilisi"
+        ]
+    },
+    {
+        "windows": "Greenland Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Godthab"
+        ]
+    },
+    {
+        "windows": "Greenland Standard Time",
+        "Region": "GL",
+        "TZID": [
+            "America/Godthab"
+        ]
+    },
+    {
+        "windows": "Greenwich Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Atlantic/Reykjavik"
+        ]
+    },
+    {
+        "windows": "Greenwich Standard Time",
+        "Region": "BF",
+        "TZID": [
+            "Africa/Ouagadougou"
+        ]
+    },
+    {
+        "windows": "Greenwich Standard Time",
+        "Region": "CI",
+        "TZID": [
+            "Africa/Abidjan"
+        ]
+    },
+    {
+        "windows": "Greenwich Standard Time",
+        "Region": "GH",
+        "TZID": [
+            "Africa/Accra"
+        ]
+    },
+    {
+        "windows": "Greenwich Standard Time",
+        "Region": "GL",
+        "TZID": [
+            "America/Danmarkshavn"
+        ]
+    },
+    {
+        "windows": "Greenwich Standard Time",
+        "Region": "GM",
+        "TZID": [
+            "Africa/Banjul"
+        ]
+    },
+    {
+        "windows": "Greenwich Standard Time",
+        "Region": "GN",
+        "TZID": [
+            "Africa/Conakry"
+        ]
+    },
+    {
+        "windows": "Greenwich Standard Time",
+        "Region": "GW",
+        "TZID": [
+            "Africa/Bissau"
+        ]
+    },
+    {
+        "windows": "Greenwich Standard Time",
+        "Region": "IS",
+        "TZID": [
+            "Atlantic/Reykjavik"
+        ]
+    },
+    {
+        "windows": "Greenwich Standard Time",
+        "Region": "LR",
+        "TZID": [
+            "Africa/Monrovia"
+        ]
+    },
+    {
+        "windows": "Greenwich Standard Time",
+        "Region": "ML",
+        "TZID": [
+            "Africa/Bamako"
+        ]
+    },
+    {
+        "windows": "Greenwich Standard Time",
+        "Region": "MR",
+        "TZID": [
+            "Africa/Nouakchott"
+        ]
+    },
+    {
+        "windows": "Greenwich Standard Time",
+        "Region": "SH",
+        "TZID": [
+            "Atlantic/St_Helena"
+        ]
+    },
+    {
+        "windows": "Greenwich Standard Time",
+        "Region": "SL",
+        "TZID": [
+            "Africa/Freetown"
+        ]
+    },
+    {
+        "windows": "Greenwich Standard Time",
+        "Region": "SN",
+        "TZID": [
+            "Africa/Dakar"
+        ]
+    },
+    {
+        "windows": "Greenwich Standard Time",
+        "Region": "TG",
+        "TZID": [
+            "Africa/Lome"
+        ]
+    },
+    {
+        "windows": "Haiti Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Port-au-Prince"
+        ]
+    },
+    {
+        "windows": "Haiti Standard Time",
+        "Region": "HT",
+        "TZID": [
+            "America/Port-au-Prince"
+        ]
+    },
+    {
+        "windows": "Hawaiian Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Pacific/Honolulu"
+        ]
+    },
+    {
+        "windows": "Hawaiian Standard Time",
+        "Region": "CK",
+        "TZID": [
+            "Pacific/Rarotonga"
+        ]
+    },
+    {
+        "windows": "Hawaiian Standard Time",
+        "Region": "PF",
+        "TZID": [
+            "Pacific/Tahiti"
+        ]
+    },
+    {
+        "windows": "Hawaiian Standard Time",
+        "Region": "US",
+        "TZID": [
+            "Pacific/Honolulu"
+        ]
+    },
+    {
+        "windows": "Hawaiian Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT+10"
+        ]
+    },
+    {
+        "windows": "India Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Calcutta"
+        ]
+    },
+    {
+        "windows": "India Standard Time",
+        "Region": "IN",
+        "TZID": [
+            "Asia/Calcutta"
+        ]
+    },
+    {
+        "windows": "Iran Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Tehran"
+        ]
+    },
+    {
+        "windows": "Iran Standard Time",
+        "Region": "IR",
+        "TZID": [
+            "Asia/Tehran"
+        ]
+    },
+    {
+        "windows": "Israel Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Jerusalem"
+        ]
+    },
+    {
+        "windows": "Israel Standard Time",
+        "Region": "IL",
+        "TZID": [
+            "Asia/Jerusalem"
+        ]
+    },
+    {
+        "windows": "Jordan Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Amman"
+        ]
+    },
+    {
+        "windows": "Jordan Standard Time",
+        "Region": "JO",
+        "TZID": [
+            "Asia/Amman"
+        ]
+    },
+    {
+        "windows": "Kaliningrad Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Europe/Kaliningrad"
+        ]
+    },
+    {
+        "windows": "Kaliningrad Standard Time",
+        "Region": "RU",
+        "TZID": [
+            "Europe/Kaliningrad"
+        ]
+    },
+    {
+        "windows": "Korea Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Seoul"
+        ]
+    },
+    {
+        "windows": "Korea Standard Time",
+        "Region": "KR",
+        "TZID": [
+            "Asia/Seoul"
+        ]
+    },
+    {
+        "windows": "Libya Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Africa/Tripoli"
+        ]
+    },
+    {
+        "windows": "Libya Standard Time",
+        "Region": "LY",
+        "TZID": [
+            "Africa/Tripoli"
+        ]
+    },
+    {
+        "windows": "Line Islands Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Pacific/Kiritimati"
+        ]
+    },
+    {
+        "windows": "Line Islands Standard Time",
+        "Region": "KI",
+        "TZID": [
+            "Pacific/Kiritimati"
+        ]
+    },
+    {
+        "windows": "Line Islands Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT-14"
+        ]
+    },
+    {
+        "windows": "Lord Howe Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Australia/Lord_Howe"
+        ]
+    },
+    {
+        "windows": "Lord Howe Standard Time",
+        "Region": "AU",
+        "TZID": [
+            "Australia/Lord_Howe"
+        ]
+    },
+    {
+        "windows": "Magadan Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Magadan"
+        ]
+    },
+    {
+        "windows": "Magadan Standard Time",
+        "Region": "RU",
+        "TZID": [
+            "Asia/Magadan"
+        ]
+    },
+    {
+        "windows": "Magallanes Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Punta_Arenas"
+        ]
+    },
+    {
+        "windows": "Magallanes Standard Time",
+        "Region": "CL",
+        "TZID": [
+            "America/Punta_Arenas"
+        ]
+    },
+    {
+        "windows": "Marquesas Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Pacific/Marquesas"
+        ]
+    },
+    {
+        "windows": "Marquesas Standard Time",
+        "Region": "PF",
+        "TZID": [
+            "Pacific/Marquesas"
+        ]
+    },
+    {
+        "windows": "Mauritius Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Indian/Mauritius"
+        ]
+    },
+    {
+        "windows": "Mauritius Standard Time",
+        "Region": "MU",
+        "TZID": [
+            "Indian/Mauritius"
+        ]
+    },
+    {
+        "windows": "Mauritius Standard Time",
+        "Region": "RE",
+        "TZID": [
+            "Indian/Reunion"
+        ]
+    },
+    {
+        "windows": "Mauritius Standard Time",
+        "Region": "SC",
+        "TZID": [
+            "Indian/Mahe"
+        ]
+    },
+    {
+        "windows": "Middle East Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Beirut"
+        ]
+    },
+    {
+        "windows": "Middle East Standard Time",
+        "Region": "LB",
+        "TZID": [
+            "Asia/Beirut"
+        ]
+    },
+    {
+        "windows": "Montevideo Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Montevideo"
+        ]
+    },
+    {
+        "windows": "Montevideo Standard Time",
+        "Region": "UY",
+        "TZID": [
+            "America/Montevideo"
+        ]
+    },
+    {
+        "windows": "Morocco Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Africa/Casablanca"
+        ]
+    },
+    {
+        "windows": "Morocco Standard Time",
+        "Region": "EH",
+        "TZID": [
+            "Africa/El_Aaiun"
+        ]
+    },
+    {
+        "windows": "Morocco Standard Time",
+        "Region": "MA",
+        "TZID": [
+            "Africa/Casablanca"
+        ]
+    },
+    {
+        "windows": "Mountain Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Denver"
+        ]
+    },
+    {
+        "windows": "Mountain Standard Time",
+        "Region": "CA",
+        "TZID": [
+            "America/Edmonton",
+            "America/Cambridge_Bay",
+            "America/Inuvik"
+        ]
+    },
+    {
+        "windows": "Mountain Standard Time",
+        "Region": "MX",
+        "TZID": [
+            "America/Ciudad_Juarez"
+        ]
+    },
+    {
+        "windows": "Mountain Standard Time",
+        "Region": "US",
+        "TZID": [
+            "America/Denver",
+            "America/Boise"
+        ]
+    },
+    {
+        "windows": "Mountain Standard Time (Mexico)",
+        "Region": "001",
+        "TZID": [
+            "America/Mazatlan"
+        ]
+    },
+    {
+        "windows": "Mountain Standard Time (Mexico)",
+        "Region": "MX",
+        "TZID": [
+            "America/Mazatlan"
+        ]
+    },
+    {
+        "windows": "Myanmar Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Rangoon"
+        ]
+    },
+    {
+        "windows": "Myanmar Standard Time",
+        "Region": "CC",
+        "TZID": [
+            "Indian/Cocos"
+        ]
+    },
+    {
+        "windows": "Myanmar Standard Time",
+        "Region": "MM",
+        "TZID": [
+            "Asia/Rangoon"
+        ]
+    },
+    {
+        "windows": "N. Central Asia Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Novosibirsk"
+        ]
+    },
+    {
+        "windows": "N. Central Asia Standard Time",
+        "Region": "RU",
+        "TZID": [
+            "Asia/Novosibirsk"
+        ]
+    },
+    {
+        "windows": "Namibia Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Africa/Windhoek"
+        ]
+    },
+    {
+        "windows": "Namibia Standard Time",
+        "Region": "NA",
+        "TZID": [
+            "Africa/Windhoek"
+        ]
+    },
+    {
+        "windows": "Nepal Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Katmandu"
+        ]
+    },
+    {
+        "windows": "Nepal Standard Time",
+        "Region": "NP",
+        "TZID": [
+            "Asia/Katmandu"
+        ]
+    },
+    {
+        "windows": "New Zealand Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Pacific/Auckland"
+        ]
+    },
+    {
+        "windows": "New Zealand Standard Time",
+        "Region": "AQ",
+        "TZID": [
+            "Antarctica/McMurdo"
+        ]
+    },
+    {
+        "windows": "New Zealand Standard Time",
+        "Region": "NZ",
+        "TZID": [
+            "Pacific/Auckland"
+        ]
+    },
+    {
+        "windows": "Newfoundland Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/St_Johns"
+        ]
+    },
+    {
+        "windows": "Newfoundland Standard Time",
+        "Region": "CA",
+        "TZID": [
+            "America/St_Johns"
+        ]
+    },
+    {
+        "windows": "Norfolk Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Pacific/Norfolk"
+        ]
+    },
+    {
+        "windows": "Norfolk Standard Time",
+        "Region": "NF",
+        "TZID": [
+            "Pacific/Norfolk"
+        ]
+    },
+    {
+        "windows": "North Asia East Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Irkutsk"
+        ]
+    },
+    {
+        "windows": "North Asia East Standard Time",
+        "Region": "RU",
+        "TZID": [
+            "Asia/Irkutsk"
+        ]
+    },
+    {
+        "windows": "North Asia Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Krasnoyarsk"
+        ]
+    },
+    {
+        "windows": "North Asia Standard Time",
+        "Region": "RU",
+        "TZID": [
+            "Asia/Krasnoyarsk",
+            "Asia/Novokuznetsk"
+        ]
+    },
+    {
+        "windows": "North Korea Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Pyongyang"
+        ]
+    },
+    {
+        "windows": "North Korea Standard Time",
+        "Region": "KP",
+        "TZID": [
+            "Asia/Pyongyang"
+        ]
+    },
+    {
+        "windows": "Omsk Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Omsk"
+        ]
+    },
+    {
+        "windows": "Omsk Standard Time",
+        "Region": "RU",
+        "TZID": [
+            "Asia/Omsk"
+        ]
+    },
+    {
+        "windows": "Pacific SA Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Santiago"
+        ]
+    },
+    {
+        "windows": "Pacific SA Standard Time",
+        "Region": "CL",
+        "TZID": [
+            "America/Santiago"
+        ]
+    },
+    {
+        "windows": "Pacific Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Los_Angeles"
+        ]
+    },
+    {
+        "windows": "Pacific Standard Time",
+        "Region": "CA",
+        "TZID": [
+            "America/Vancouver"
+        ]
+    },
+    {
+        "windows": "Pacific Standard Time",
+        "Region": "US",
+        "TZID": [
+            "America/Los_Angeles"
+        ]
+    },
+    {
+        "windows": "Pacific Standard Time (Mexico)",
+        "Region": "001",
+        "TZID": [
+            "America/Tijuana"
+        ]
+    },
+    {
+        "windows": "Pacific Standard Time (Mexico)",
+        "Region": "MX",
+        "TZID": [
+            "America/Tijuana"
+        ]
+    },
+    {
+        "windows": "Pakistan Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Karachi"
+        ]
+    },
+    {
+        "windows": "Pakistan Standard Time",
+        "Region": "PK",
+        "TZID": [
+            "Asia/Karachi"
+        ]
+    },
+    {
+        "windows": "Paraguay Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Asuncion"
+        ]
+    },
+    {
+        "windows": "Paraguay Standard Time",
+        "Region": "PY",
+        "TZID": [
+            "America/Asuncion"
+        ]
+    },
+    {
+        "windows": "Qyzylorda Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Qyzylorda"
+        ]
+    },
+    {
+        "windows": "Qyzylorda Standard Time",
+        "Region": "KZ",
+        "TZID": [
+            "Asia/Qyzylorda"
+        ]
+    },
+    {
+        "windows": "Romance Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Europe/Paris"
+        ]
+    },
+    {
+        "windows": "Romance Standard Time",
+        "Region": "BE",
+        "TZID": [
+            "Europe/Brussels"
+        ]
+    },
+    {
+        "windows": "Romance Standard Time",
+        "Region": "DK",
+        "TZID": [
+            "Europe/Copenhagen"
+        ]
+    },
+    {
+        "windows": "Romance Standard Time",
+        "Region": "ES",
+        "TZID": [
+            "Europe/Madrid",
+            "Africa/Ceuta"
+        ]
+    },
+    {
+        "windows": "Romance Standard Time",
+        "Region": "FR",
+        "TZID": [
+            "Europe/Paris"
+        ]
+    },
+    {
+        "windows": "Russia Time Zone 10",
+        "Region": "001",
+        "TZID": [
+            "Asia/Srednekolymsk"
+        ]
+    },
+    {
+        "windows": "Russia Time Zone 10",
+        "Region": "RU",
+        "TZID": [
+            "Asia/Srednekolymsk"
+        ]
+    },
+    {
+        "windows": "Russia Time Zone 11",
+        "Region": "001",
+        "TZID": [
+            "Asia/Kamchatka"
+        ]
+    },
+    {
+        "windows": "Russia Time Zone 11",
+        "Region": "RU",
+        "TZID": [
+            "Asia/Kamchatka",
+            "Asia/Anadyr"
+        ]
+    },
+    {
+        "windows": "Russia Time Zone 3",
+        "Region": "001",
+        "TZID": [
+            "Europe/Samara"
+        ]
+    },
+    {
+        "windows": "Russia Time Zone 3",
+        "Region": "RU",
+        "TZID": [
+            "Europe/Samara"
+        ]
+    },
+    {
+        "windows": "Russian Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Europe/Moscow"
+        ]
+    },
+    {
+        "windows": "Russian Standard Time",
+        "Region": "RU",
+        "TZID": [
+            "Europe/Moscow",
+            "Europe/Kirov"
+        ]
+    },
+    {
+        "windows": "Russian Standard Time",
+        "Region": "UA",
+        "TZID": [
+            "Europe/Simferopol"
+        ]
+    },
+    {
+        "windows": "SA Eastern Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Cayenne"
+        ]
+    },
+    {
+        "windows": "SA Eastern Standard Time",
+        "Region": "AQ",
+        "TZID": [
+            "Antarctica/Rothera",
+            "Antarctica/Palmer"
+        ]
+    },
+    {
+        "windows": "SA Eastern Standard Time",
+        "Region": "BR",
+        "TZID": [
+            "America/Fortaleza",
+            "America/Belem",
+            "America/Maceio",
+            "America/Recife",
+            "America/Santarem"
+        ]
+    },
+    {
+        "windows": "SA Eastern Standard Time",
+        "Region": "FK",
+        "TZID": [
+            "Atlantic/Stanley"
+        ]
+    },
+    {
+        "windows": "SA Eastern Standard Time",
+        "Region": "GF",
+        "TZID": [
+            "America/Cayenne"
+        ]
+    },
+    {
+        "windows": "SA Eastern Standard Time",
+        "Region": "SR",
+        "TZID": [
+            "America/Paramaribo"
+        ]
+    },
+    {
+        "windows": "SA Eastern Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT+3"
+        ]
+    },
+    {
+        "windows": "SA Pacific Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Bogota"
+        ]
+    },
+    {
+        "windows": "SA Pacific Standard Time",
+        "Region": "BR",
+        "TZID": [
+            "America/Rio_Branco",
+            "America/Eirunepe"
+        ]
+    },
+    {
+        "windows": "SA Pacific Standard Time",
+        "Region": "CA",
+        "TZID": [
+            "America/Coral_Harbour"
+        ]
+    },
+    {
+        "windows": "SA Pacific Standard Time",
+        "Region": "CO",
+        "TZID": [
+            "America/Bogota"
+        ]
+    },
+    {
+        "windows": "SA Pacific Standard Time",
+        "Region": "EC",
+        "TZID": [
+            "America/Guayaquil"
+        ]
+    },
+    {
+        "windows": "SA Pacific Standard Time",
+        "Region": "JM",
+        "TZID": [
+            "America/Jamaica"
+        ]
+    },
+    {
+        "windows": "SA Pacific Standard Time",
+        "Region": "KY",
+        "TZID": [
+            "America/Cayman"
+        ]
+    },
+    {
+        "windows": "SA Pacific Standard Time",
+        "Region": "PA",
+        "TZID": [
+            "America/Panama"
+        ]
+    },
+    {
+        "windows": "SA Pacific Standard Time",
+        "Region": "PE",
+        "TZID": [
+            "America/Lima"
+        ]
+    },
+    {
+        "windows": "SA Pacific Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT+5"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/La_Paz"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "AG",
+        "TZID": [
+            "America/Antigua"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "AI",
+        "TZID": [
+            "America/Anguilla"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "AW",
+        "TZID": [
+            "America/Aruba"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "BB",
+        "TZID": [
+            "America/Barbados"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "BL",
+        "TZID": [
+            "America/St_Barthelemy"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "BO",
+        "TZID": [
+            "America/La_Paz"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "BQ",
+        "TZID": [
+            "America/Kralendijk"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "BR",
+        "TZID": [
+            "America/Manaus",
+            "America/Boa_Vista",
+            "America/Porto_Velho"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "CA",
+        "TZID": [
+            "America/Blanc-Sablon"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "CW",
+        "TZID": [
+            "America/Curacao"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "DM",
+        "TZID": [
+            "America/Dominica"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "DO",
+        "TZID": [
+            "America/Santo_Domingo"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "GD",
+        "TZID": [
+            "America/Grenada"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "GP",
+        "TZID": [
+            "America/Guadeloupe"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "GY",
+        "TZID": [
+            "America/Guyana"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "KN",
+        "TZID": [
+            "America/St_Kitts"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "LC",
+        "TZID": [
+            "America/St_Lucia"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "MF",
+        "TZID": [
+            "America/Marigot"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "MQ",
+        "TZID": [
+            "America/Martinique"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "MS",
+        "TZID": [
+            "America/Montserrat"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "PR",
+        "TZID": [
+            "America/Puerto_Rico"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "SX",
+        "TZID": [
+            "America/Lower_Princes"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "TT",
+        "TZID": [
+            "America/Port_of_Spain"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "VC",
+        "TZID": [
+            "America/St_Vincent"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "VG",
+        "TZID": [
+            "America/Tortola"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "VI",
+        "TZID": [
+            "America/St_Thomas"
+        ]
+    },
+    {
+        "windows": "SA Western Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT+4"
+        ]
+    },
+    {
+        "windows": "SE Asia Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Bangkok"
+        ]
+    },
+    {
+        "windows": "SE Asia Standard Time",
+        "Region": "AQ",
+        "TZID": [
+            "Antarctica/Davis"
+        ]
+    },
+    {
+        "windows": "SE Asia Standard Time",
+        "Region": "CX",
+        "TZID": [
+            "Indian/Christmas"
+        ]
+    },
+    {
+        "windows": "SE Asia Standard Time",
+        "Region": "ID",
+        "TZID": [
+            "Asia/Jakarta",
+            "Asia/Pontianak"
+        ]
+    },
+    {
+        "windows": "SE Asia Standard Time",
+        "Region": "KH",
+        "TZID": [
+            "Asia/Phnom_Penh"
+        ]
+    },
+    {
+        "windows": "SE Asia Standard Time",
+        "Region": "LA",
+        "TZID": [
+            "Asia/Vientiane"
+        ]
+    },
+    {
+        "windows": "SE Asia Standard Time",
+        "Region": "TH",
+        "TZID": [
+            "Asia/Bangkok"
+        ]
+    },
+    {
+        "windows": "SE Asia Standard Time",
+        "Region": "VN",
+        "TZID": [
+            "Asia/Saigon"
+        ]
+    },
+    {
+        "windows": "SE Asia Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT-7"
+        ]
+    },
+    {
+        "windows": "Saint Pierre Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Miquelon"
+        ]
+    },
+    {
+        "windows": "Saint Pierre Standard Time",
+        "Region": "PM",
+        "TZID": [
+            "America/Miquelon"
+        ]
+    },
+    {
+        "windows": "Sakhalin Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Sakhalin"
+        ]
+    },
+    {
+        "windows": "Sakhalin Standard Time",
+        "Region": "RU",
+        "TZID": [
+            "Asia/Sakhalin"
+        ]
+    },
+    {
+        "windows": "Samoa Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Pacific/Apia"
+        ]
+    },
+    {
+        "windows": "Samoa Standard Time",
+        "Region": "WS",
+        "TZID": [
+            "Pacific/Apia"
+        ]
+    },
+    {
+        "windows": "Sao Tome Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Africa/Sao_Tome"
+        ]
+    },
+    {
+        "windows": "Sao Tome Standard Time",
+        "Region": "ST",
+        "TZID": [
+            "Africa/Sao_Tome"
+        ]
+    },
+    {
+        "windows": "Saratov Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Europe/Saratov"
+        ]
+    },
+    {
+        "windows": "Saratov Standard Time",
+        "Region": "RU",
+        "TZID": [
+            "Europe/Saratov"
+        ]
+    },
+    {
+        "windows": "Singapore Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Singapore"
+        ]
+    },
+    {
+        "windows": "Singapore Standard Time",
+        "Region": "BN",
+        "TZID": [
+            "Asia/Brunei"
+        ]
+    },
+    {
+        "windows": "Singapore Standard Time",
+        "Region": "ID",
+        "TZID": [
+            "Asia/Makassar"
+        ]
+    },
+    {
+        "windows": "Singapore Standard Time",
+        "Region": "MY",
+        "TZID": [
+            "Asia/Kuala_Lumpur",
+            "Asia/Kuching"
+        ]
+    },
+    {
+        "windows": "Singapore Standard Time",
+        "Region": "PH",
+        "TZID": [
+            "Asia/Manila"
+        ]
+    },
+    {
+        "windows": "Singapore Standard Time",
+        "Region": "SG",
+        "TZID": [
+            "Asia/Singapore"
+        ]
+    },
+    {
+        "windows": "Singapore Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT-8"
+        ]
+    },
+    {
+        "windows": "South Africa Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Africa/Johannesburg"
+        ]
+    },
+    {
+        "windows": "South Africa Standard Time",
+        "Region": "BI",
+        "TZID": [
+            "Africa/Bujumbura"
+        ]
+    },
+    {
+        "windows": "South Africa Standard Time",
+        "Region": "BW",
+        "TZID": [
+            "Africa/Gaborone"
+        ]
+    },
+    {
+        "windows": "South Africa Standard Time",
+        "Region": "CD",
+        "TZID": [
+            "Africa/Lubumbashi"
+        ]
+    },
+    {
+        "windows": "South Africa Standard Time",
+        "Region": "LS",
+        "TZID": [
+            "Africa/Maseru"
+        ]
+    },
+    {
+        "windows": "South Africa Standard Time",
+        "Region": "MW",
+        "TZID": [
+            "Africa/Blantyre"
+        ]
+    },
+    {
+        "windows": "South Africa Standard Time",
+        "Region": "MZ",
+        "TZID": [
+            "Africa/Maputo"
+        ]
+    },
+    {
+        "windows": "South Africa Standard Time",
+        "Region": "RW",
+        "TZID": [
+            "Africa/Kigali"
+        ]
+    },
+    {
+        "windows": "South Africa Standard Time",
+        "Region": "SZ",
+        "TZID": [
+            "Africa/Mbabane"
+        ]
+    },
+    {
+        "windows": "South Africa Standard Time",
+        "Region": "ZA",
+        "TZID": [
+            "Africa/Johannesburg"
+        ]
+    },
+    {
+        "windows": "South Africa Standard Time",
+        "Region": "ZM",
+        "TZID": [
+            "Africa/Lusaka"
+        ]
+    },
+    {
+        "windows": "South Africa Standard Time",
+        "Region": "ZW",
+        "TZID": [
+            "Africa/Harare"
+        ]
+    },
+    {
+        "windows": "South Africa Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT-2"
+        ]
+    },
+    {
+        "windows": "South Sudan Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Africa/Juba"
+        ]
+    },
+    {
+        "windows": "South Sudan Standard Time",
+        "Region": "SS",
+        "TZID": [
+            "Africa/Juba"
+        ]
+    },
+    {
+        "windows": "Sri Lanka Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Colombo"
+        ]
+    },
+    {
+        "windows": "Sri Lanka Standard Time",
+        "Region": "LK",
+        "TZID": [
+            "Asia/Colombo"
+        ]
+    },
+    {
+        "windows": "Sudan Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Africa/Khartoum"
+        ]
+    },
+    {
+        "windows": "Sudan Standard Time",
+        "Region": "SD",
+        "TZID": [
+            "Africa/Khartoum"
+        ]
+    },
+    {
+        "windows": "Syria Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Damascus"
+        ]
+    },
+    {
+        "windows": "Syria Standard Time",
+        "Region": "SY",
+        "TZID": [
+            "Asia/Damascus"
+        ]
+    },
+    {
+        "windows": "Taipei Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Taipei"
+        ]
+    },
+    {
+        "windows": "Taipei Standard Time",
+        "Region": "TW",
+        "TZID": [
+            "Asia/Taipei"
+        ]
+    },
+    {
+        "windows": "Tasmania Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Australia/Hobart"
+        ]
+    },
+    {
+        "windows": "Tasmania Standard Time",
+        "Region": "AU",
+        "TZID": [
+            "Australia/Hobart",
+            "Antarctica/Macquarie"
+        ]
+    },
+    {
+        "windows": "Tocantins Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Araguaina"
+        ]
+    },
+    {
+        "windows": "Tocantins Standard Time",
+        "Region": "BR",
+        "TZID": [
+            "America/Araguaina"
+        ]
+    },
+    {
+        "windows": "Tokyo Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Tokyo"
+        ]
+    },
+    {
+        "windows": "Tokyo Standard Time",
+        "Region": "ID",
+        "TZID": [
+            "Asia/Jayapura"
+        ]
+    },
+    {
+        "windows": "Tokyo Standard Time",
+        "Region": "JP",
+        "TZID": [
+            "Asia/Tokyo"
+        ]
+    },
+    {
+        "windows": "Tokyo Standard Time",
+        "Region": "PW",
+        "TZID": [
+            "Pacific/Palau"
+        ]
+    },
+    {
+        "windows": "Tokyo Standard Time",
+        "Region": "TL",
+        "TZID": [
+            "Asia/Dili"
+        ]
+    },
+    {
+        "windows": "Tokyo Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT-9"
+        ]
+    },
+    {
+        "windows": "Tomsk Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Tomsk"
+        ]
+    },
+    {
+        "windows": "Tomsk Standard Time",
+        "Region": "RU",
+        "TZID": [
+            "Asia/Tomsk"
+        ]
+    },
+    {
+        "windows": "Tonga Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Pacific/Tongatapu"
+        ]
+    },
+    {
+        "windows": "Tonga Standard Time",
+        "Region": "TO",
+        "TZID": [
+            "Pacific/Tongatapu"
+        ]
+    },
+    {
+        "windows": "Transbaikal Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Chita"
+        ]
+    },
+    {
+        "windows": "Transbaikal Standard Time",
+        "Region": "RU",
+        "TZID": [
+            "Asia/Chita"
+        ]
+    },
+    {
+        "windows": "Turkey Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Europe/Istanbul"
+        ]
+    },
+    {
+        "windows": "Turkey Standard Time",
+        "Region": "TR",
+        "TZID": [
+            "Europe/Istanbul"
+        ]
+    },
+    {
+        "windows": "Turks And Caicos Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Grand_Turk"
+        ]
+    },
+    {
+        "windows": "Turks And Caicos Standard Time",
+        "Region": "TC",
+        "TZID": [
+            "America/Grand_Turk"
+        ]
+    },
+    {
+        "windows": "US Eastern Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Indianapolis"
+        ]
+    },
+    {
+        "windows": "US Eastern Standard Time",
+        "Region": "US",
+        "TZID": [
+            "America/Indianapolis",
+            "America/Indiana/Marengo",
+            "America/Indiana/Vevay"
+        ]
+    },
+    {
+        "windows": "US Mountain Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Phoenix"
+        ]
+    },
+    {
+        "windows": "US Mountain Standard Time",
+        "Region": "CA",
+        "TZID": [
+            "America/Creston",
+            "America/Dawson_Creek",
+            "America/Fort_Nelson"
+        ]
+    },
+    {
+        "windows": "US Mountain Standard Time",
+        "Region": "MX",
+        "TZID": [
+            "America/Hermosillo"
+        ]
+    },
+    {
+        "windows": "US Mountain Standard Time",
+        "Region": "US",
+        "TZID": [
+            "America/Phoenix"
+        ]
+    },
+    {
+        "windows": "US Mountain Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT+7"
+        ]
+    },
+    {
+        "windows": "UTC",
+        "Region": "001",
+        "TZID": [
+            "Etc/UTC"
+        ]
+    },
+    {
+        "windows": "UTC",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/UTC",
+            "Etc/GMT"
+        ]
+    },
+    {
+        "windows": "UTC+12",
+        "Region": "001",
+        "TZID": [
+            "Etc/GMT-12"
+        ]
+    },
+    {
+        "windows": "UTC+12",
+        "Region": "KI",
+        "TZID": [
+            "Pacific/Tarawa"
+        ]
+    },
+    {
+        "windows": "UTC+12",
+        "Region": "MH",
+        "TZID": [
+            "Pacific/Majuro",
+            "Pacific/Kwajalein"
+        ]
+    },
+    {
+        "windows": "UTC+12",
+        "Region": "NR",
+        "TZID": [
+            "Pacific/Nauru"
+        ]
+    },
+    {
+        "windows": "UTC+12",
+        "Region": "TV",
+        "TZID": [
+            "Pacific/Funafuti"
+        ]
+    },
+    {
+        "windows": "UTC+12",
+        "Region": "UM",
+        "TZID": [
+            "Pacific/Wake"
+        ]
+    },
+    {
+        "windows": "UTC+12",
+        "Region": "WF",
+        "TZID": [
+            "Pacific/Wallis"
+        ]
+    },
+    {
+        "windows": "UTC+12",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT-12"
+        ]
+    },
+    {
+        "windows": "UTC+13",
+        "Region": "001",
+        "TZID": [
+            "Etc/GMT-13"
+        ]
+    },
+    {
+        "windows": "UTC+13",
+        "Region": "KI",
+        "TZID": [
+            "Pacific/Enderbury"
+        ]
+    },
+    {
+        "windows": "UTC+13",
+        "Region": "TK",
+        "TZID": [
+            "Pacific/Fakaofo"
+        ]
+    },
+    {
+        "windows": "UTC+13",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT-13"
+        ]
+    },
+    {
+        "windows": "UTC-02",
+        "Region": "001",
+        "TZID": [
+            "Etc/GMT+2"
+        ]
+    },
+    {
+        "windows": "UTC-02",
+        "Region": "BR",
+        "TZID": [
+            "America/Noronha"
+        ]
+    },
+    {
+        "windows": "UTC-02",
+        "Region": "GS",
+        "TZID": [
+            "Atlantic/South_Georgia"
+        ]
+    },
+    {
+        "windows": "UTC-02",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT+2"
+        ]
+    },
+    {
+        "windows": "UTC-08",
+        "Region": "001",
+        "TZID": [
+            "Etc/GMT+8"
+        ]
+    },
+    {
+        "windows": "UTC-08",
+        "Region": "PN",
+        "TZID": [
+            "Pacific/Pitcairn"
+        ]
+    },
+    {
+        "windows": "UTC-08",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT+8"
+        ]
+    },
+    {
+        "windows": "UTC-09",
+        "Region": "001",
+        "TZID": [
+            "Etc/GMT+9"
+        ]
+    },
+    {
+        "windows": "UTC-09",
+        "Region": "PF",
+        "TZID": [
+            "Pacific/Gambier"
+        ]
+    },
+    {
+        "windows": "UTC-09",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT+9"
+        ]
+    },
+    {
+        "windows": "UTC-11",
+        "Region": "001",
+        "TZID": [
+            "Etc/GMT+11"
+        ]
+    },
+    {
+        "windows": "UTC-11",
+        "Region": "AS",
+        "TZID": [
+            "Pacific/Pago_Pago"
+        ]
+    },
+    {
+        "windows": "UTC-11",
+        "Region": "NU",
+        "TZID": [
+            "Pacific/Niue"
+        ]
+    },
+    {
+        "windows": "UTC-11",
+        "Region": "UM",
+        "TZID": [
+            "Pacific/Midway"
+        ]
+    },
+    {
+        "windows": "UTC-11",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT+11"
+        ]
+    },
+    {
+        "windows": "Ulaanbaatar Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Ulaanbaatar"
+        ]
+    },
+    {
+        "windows": "Ulaanbaatar Standard Time",
+        "Region": "MN",
+        "TZID": [
+            "Asia/Ulaanbaatar"
+        ]
+    },
+    {
+        "windows": "Venezuela Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Caracas"
+        ]
+    },
+    {
+        "windows": "Venezuela Standard Time",
+        "Region": "VE",
+        "TZID": [
+            "America/Caracas"
+        ]
+    },
+    {
+        "windows": "Vladivostok Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Vladivostok"
+        ]
+    },
+    {
+        "windows": "Vladivostok Standard Time",
+        "Region": "RU",
+        "TZID": [
+            "Asia/Vladivostok",
+            "Asia/Ust-Nera"
+        ]
+    },
+    {
+        "windows": "Volgograd Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Europe/Volgograd"
+        ]
+    },
+    {
+        "windows": "Volgograd Standard Time",
+        "Region": "RU",
+        "TZID": [
+            "Europe/Volgograd"
+        ]
+    },
+    {
+        "windows": "W. Australia Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Australia/Perth"
+        ]
+    },
+    {
+        "windows": "W. Australia Standard Time",
+        "Region": "AU",
+        "TZID": [
+            "Australia/Perth"
+        ]
+    },
+    {
+        "windows": "W. Central Africa Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Africa/Lagos"
+        ]
+    },
+    {
+        "windows": "W. Central Africa Standard Time",
+        "Region": "AO",
+        "TZID": [
+            "Africa/Luanda"
+        ]
+    },
+    {
+        "windows": "W. Central Africa Standard Time",
+        "Region": "BJ",
+        "TZID": [
+            "Africa/Porto-Novo"
+        ]
+    },
+    {
+        "windows": "W. Central Africa Standard Time",
+        "Region": "CD",
+        "TZID": [
+            "Africa/Kinshasa"
+        ]
+    },
+    {
+        "windows": "W. Central Africa Standard Time",
+        "Region": "CF",
+        "TZID": [
+            "Africa/Bangui"
+        ]
+    },
+    {
+        "windows": "W. Central Africa Standard Time",
+        "Region": "CG",
+        "TZID": [
+            "Africa/Brazzaville"
+        ]
+    },
+    {
+        "windows": "W. Central Africa Standard Time",
+        "Region": "CM",
+        "TZID": [
+            "Africa/Douala"
+        ]
+    },
+    {
+        "windows": "W. Central Africa Standard Time",
+        "Region": "DZ",
+        "TZID": [
+            "Africa/Algiers"
+        ]
+    },
+    {
+        "windows": "W. Central Africa Standard Time",
+        "Region": "GA",
+        "TZID": [
+            "Africa/Libreville"
+        ]
+    },
+    {
+        "windows": "W. Central Africa Standard Time",
+        "Region": "GQ",
+        "TZID": [
+            "Africa/Malabo"
+        ]
+    },
+    {
+        "windows": "W. Central Africa Standard Time",
+        "Region": "NE",
+        "TZID": [
+            "Africa/Niamey"
+        ]
+    },
+    {
+        "windows": "W. Central Africa Standard Time",
+        "Region": "NG",
+        "TZID": [
+            "Africa/Lagos"
+        ]
+    },
+    {
+        "windows": "W. Central Africa Standard Time",
+        "Region": "TD",
+        "TZID": [
+            "Africa/Ndjamena"
+        ]
+    },
+    {
+        "windows": "W. Central Africa Standard Time",
+        "Region": "TN",
+        "TZID": [
+            "Africa/Tunis"
+        ]
+    },
+    {
+        "windows": "W. Central Africa Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT-1"
+        ]
+    },
+    {
+        "windows": "W. Europe Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Europe/Berlin"
+        ]
+    },
+    {
+        "windows": "W. Europe Standard Time",
+        "Region": "AD",
+        "TZID": [
+            "Europe/Andorra"
+        ]
+    },
+    {
+        "windows": "W. Europe Standard Time",
+        "Region": "AT",
+        "TZID": [
+            "Europe/Vienna"
+        ]
+    },
+    {
+        "windows": "W. Europe Standard Time",
+        "Region": "CH",
+        "TZID": [
+            "Europe/Zurich"
+        ]
+    },
+    {
+        "windows": "W. Europe Standard Time",
+        "Region": "DE",
+        "TZID": [
+            "Europe/Berlin",
+            "Europe/Busingen"
+        ]
+    },
+    {
+        "windows": "W. Europe Standard Time",
+        "Region": "GI",
+        "TZID": [
+            "Europe/Gibraltar"
+        ]
+    },
+    {
+        "windows": "W. Europe Standard Time",
+        "Region": "IT",
+        "TZID": [
+            "Europe/Rome"
+        ]
+    },
+    {
+        "windows": "W. Europe Standard Time",
+        "Region": "LI",
+        "TZID": [
+            "Europe/Vaduz"
+        ]
+    },
+    {
+        "windows": "W. Europe Standard Time",
+        "Region": "LU",
+        "TZID": [
+            "Europe/Luxembourg"
+        ]
+    },
+    {
+        "windows": "W. Europe Standard Time",
+        "Region": "MC",
+        "TZID": [
+            "Europe/Monaco"
+        ]
+    },
+    {
+        "windows": "W. Europe Standard Time",
+        "Region": "MT",
+        "TZID": [
+            "Europe/Malta"
+        ]
+    },
+    {
+        "windows": "W. Europe Standard Time",
+        "Region": "NL",
+        "TZID": [
+            "Europe/Amsterdam"
+        ]
+    },
+    {
+        "windows": "W. Europe Standard Time",
+        "Region": "NO",
+        "TZID": [
+            "Europe/Oslo"
+        ]
+    },
+    {
+        "windows": "W. Europe Standard Time",
+        "Region": "SE",
+        "TZID": [
+            "Europe/Stockholm"
+        ]
+    },
+    {
+        "windows": "W. Europe Standard Time",
+        "Region": "SJ",
+        "TZID": [
+            "Arctic/Longyearbyen"
+        ]
+    },
+    {
+        "windows": "W. Europe Standard Time",
+        "Region": "SM",
+        "TZID": [
+            "Europe/San_Marino"
+        ]
+    },
+    {
+        "windows": "W. Europe Standard Time",
+        "Region": "VA",
+        "TZID": [
+            "Europe/Vatican"
+        ]
+    },
+    {
+        "windows": "W. Mongolia Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Hovd"
+        ]
+    },
+    {
+        "windows": "W. Mongolia Standard Time",
+        "Region": "MN",
+        "TZID": [
+            "Asia/Hovd"
+        ]
+    },
+    {
+        "windows": "West Asia Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Tashkent"
+        ]
+    },
+    {
+        "windows": "West Asia Standard Time",
+        "Region": "AQ",
+        "TZID": [
+            "Antarctica/Mawson"
+        ]
+    },
+    {
+        "windows": "West Asia Standard Time",
+        "Region": "KZ",
+        "TZID": [
+            "Asia/Oral",
+            "Asia/Almaty",
+            "Asia/Aqtau",
+            "Asia/Aqtobe",
+            "Asia/Atyrau",
+            "Asia/Qostanay"
+        ]
+    },
+    {
+        "windows": "West Asia Standard Time",
+        "Region": "MV",
+        "TZID": [
+            "Indian/Maldives"
+        ]
+    },
+    {
+        "windows": "West Asia Standard Time",
+        "Region": "TF",
+        "TZID": [
+            "Indian/Kerguelen"
+        ]
+    },
+    {
+        "windows": "West Asia Standard Time",
+        "Region": "TJ",
+        "TZID": [
+            "Asia/Dushanbe"
+        ]
+    },
+    {
+        "windows": "West Asia Standard Time",
+        "Region": "TM",
+        "TZID": [
+            "Asia/Ashgabat"
+        ]
+    },
+    {
+        "windows": "West Asia Standard Time",
+        "Region": "UZ",
+        "TZID": [
+            "Asia/Tashkent",
+            "Asia/Samarkand"
+        ]
+    },
+    {
+        "windows": "West Asia Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT-5"
+        ]
+    },
+    {
+        "windows": "West Bank Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Hebron"
+        ]
+    },
+    {
+        "windows": "West Bank Standard Time",
+        "Region": "PS",
+        "TZID": [
+            "Asia/Hebron",
+            "Asia/Gaza"
+        ]
+    },
+    {
+        "windows": "West Pacific Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Pacific/Port_Moresby"
+        ]
+    },
+    {
+        "windows": "West Pacific Standard Time",
+        "Region": "AQ",
+        "TZID": [
+            "Antarctica/DumontDUrville"
+        ]
+    },
+    {
+        "windows": "West Pacific Standard Time",
+        "Region": "FM",
+        "TZID": [
+            "Pacific/Truk"
+        ]
+    },
+    {
+        "windows": "West Pacific Standard Time",
+        "Region": "GU",
+        "TZID": [
+            "Pacific/Guam"
+        ]
+    },
+    {
+        "windows": "West Pacific Standard Time",
+        "Region": "MP",
+        "TZID": [
+            "Pacific/Saipan"
+        ]
+    },
+    {
+        "windows": "West Pacific Standard Time",
+        "Region": "PG",
+        "TZID": [
+            "Pacific/Port_Moresby"
+        ]
+    },
+    {
+        "windows": "West Pacific Standard Time",
+        "Region": "ZZ",
+        "TZID": [
+            "Etc/GMT-10"
+        ]
+    },
+    {
+        "windows": "Yakutsk Standard Time",
+        "Region": "001",
+        "TZID": [
+            "Asia/Yakutsk"
+        ]
+    },
+    {
+        "windows": "Yakutsk Standard Time",
+        "Region": "RU",
+        "TZID": [
+            "Asia/Yakutsk",
+            "Asia/Khandyga"
+        ]
+    },
+    {
+        "windows": "Yukon Standard Time",
+        "Region": "001",
+        "TZID": [
+            "America/Whitehorse"
+        ]
+    },
+    {
+        "windows": "Yukon Standard Time",
+        "Region": "CA",
+        "TZID": [
+            "America/Whitehorse",
+            "America/Dawson"
+        ]
+    }
+]
