@@ -9,6 +9,8 @@ use ICal\ICal;
 use DateTime;
 use DateTimeZone;
 
+use App\Helpers\WindowsTimezoneHelper;
+
 class FixIcsTimezone extends Command
 {
     protected $signature = 'ics:fix-timezone {userId}';
@@ -40,11 +42,18 @@ class FixIcsTimezone extends Command
             $originalTimezone = isset($matches[1]) ? trim($matches[1]) : 'Europe/Amsterdam';
 
             // Create DateTimeZone objects for the original and target timezones
+            $originalTz = null;
             try {
                 $originalTz = new DateTimeZone($originalTimezone);
             } catch (\Exception $e) {
-                $this->warn("Unknown or bad timezone '{$originalTimezone}', falling back to Europe/Amsterdam.");
-                $originalTz = new DateTimeZone('Europe/Amsterdam');
+                // try using App\Helpers\WindowsTimezoneHelper
+                try {
+                    $originalTz = new DateTimeZone(WindowsTimezoneHelper::convertToTZID($originalTimezone));
+                } catch (\Exception $e) {
+                    // Fallback to Europe/Amsterdam if the timezone is invalid
+                    $this->warn("Unknown or bad timezone '{$originalTimezone}', falling back to UTC.");
+                    $originalTz = new DateTimeZone('UTC');
+                }
             }
             $targetTz = new DateTimeZone('UTC');
 
@@ -92,7 +101,7 @@ class FixIcsTimezone extends Command
             $path = "ics/{$userId}/{$randomString}{$filename}";
             Storage::disk('public')->put($path, $updatedIcsContent);
 
-            $this->info("Updated .ics file saved to: " . Storage::disk('public')->url($path));
+            $this->info("Updated .ics file saved to: " . Storage::disk('public')->path($path));
             return 0;
         } catch (\Exception $e) {
             $this->error('Failed to process the .ics file: ' . $e->getMessage());

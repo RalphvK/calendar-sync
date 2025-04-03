@@ -107,3 +107,37 @@ php artisan ics:tz-json-php
 #### Example:
 ```bash
 php artisan ics:tz-json-php
+```
+
+## WindowsTimezoneHelper
+
+The `WindowsTimezoneHelper` class provides a utility method to convert a Windows timezone string into the first corresponding TZID from a predefined mapping.
+
+### Method: `convertToTZID`
+
+#### Description:
+Converts a Windows timezone string into the first TZID from the mapping array defined in the configuration file.
+
+#### Parameters:
+- **`string $windowsTimezone`**: The Windows timezone string to be converted.
+
+#### Returns:
+- **`string|null`**: The first corresponding TZID if found, or `null` if no match exists.
+
+#### Example Usage:
+```php
+use App\Helpers\WindowsTimezoneHelper;
+
+$windowsTimezone = 'Pacific Standard Time';
+$tzid = WindowsTimezoneHelper::convertToTZID($windowsTimezone);
+
+if ($tzid) {
+    echo "The corresponding TZID is: $tzid";
+} else {
+    echo "No matching TZID found.";
+}
+```
+
+#### Notes:
+- The mapping array is loaded from the `config/windows-tzid-mapping-array.php` file.
+- Ensure the configuration file is properly set up with the required mappings.
