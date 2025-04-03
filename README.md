@@ -64,3 +64,46 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Custom Commands
+
+### FixIcsTimezone
+
+This command fetches a user's `.ics` calendar file, adjusts the timezone of events to UTC, and saves the updated file to public storage.
+
+#### Usage:
+```bash
+php artisan ics:fix-timezone {userId}
+```
+
+- **userId**: The ID of the user whose `.ics` file needs to be processed.
+
+#### Features:
+- Fetches the `.ics` file from the user's configured URL.
+- Adjusts event times from the original timezone to UTC.
+- Saves the updated `.ics` file to a public storage path.
+
+#### Example:
+```bash
+php artisan ics:fix-timezone 1
+```
+
+---
+
+### ConvertTzJsonToPhpArray
+
+This command converts a JSON file containing timezone mappings into a PHP array and saves it as a configuration file.
+
+#### Usage:
+```bash
+php artisan ics:tz-json-php
+```
+
+#### Features:
+- Reads a JSON file located at `docs/windows-timezones/windows-tzid-mapping-arrays.json`.
+- Converts the JSON content into a PHP array.
+- Saves the PHP array to `config/windows-tzid-mapping-array.php`.
+
+#### Example:
+```bash
+php artisan ics:tz-json-php
