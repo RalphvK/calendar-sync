@@ -33,22 +33,27 @@ class FixIcsTimezone extends Command
 
         // Modify the timezone in the .ics content
         try {
-            // Replace all timezone-related information with UTC
+            // Replace all timezone-related information with Europe/Amsterdam
             $updatedIcsContent = preg_replace(
                 [
                     '/TZID=[^:;]+/', // Match timezone definitions
                     '/BEGIN:VTIMEZONE.*?END:VTIMEZONE/s', // Match VTIMEZONE blocks
                 ],
                 [
-                    'TZID=UTC', // Replace with UTC
+                    'TZID=Europe/Amsterdam', // Replace with Europe/Amsterdam
                     '', // Remove VTIMEZONE blocks
                 ],
                 $icsContent
             );
 
+            // Extract the random string and filename from the URL
+            $parsedUrl = parse_url($user->ics_url);
+            $pathParts = explode('/', ltrim($parsedUrl['path'], '/'));
+            $randomString = $pathParts[2]; // First part of the path
+            $filename = end($pathParts); // Last part of the path (filename)
+
             // Save the updated .ics file to public storage
-            $filename = basename(parse_url($user->ics_url, PHP_URL_PATH));
-            $path = "ics/{$userId}/{$filename}";
+            $path = "ics/{$userId}/{$randomString}{$filename}";
             Storage::disk('public')->put($path, $updatedIcsContent);
 
             $this->info("Updated .ics file saved to: " . Storage::disk('public')->url($path));
