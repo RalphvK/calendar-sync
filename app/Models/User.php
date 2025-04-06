@@ -21,7 +21,7 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
-        'ics_url',
+        'ics_url', // remove in the future
     ];
 
     /**
@@ -45,5 +45,13 @@ class User extends Authenticatable
             'email_verified_at' => 'datetime',
             'password' => 'hashed',
         ];
+    }
+
+    /**
+     * Get the sources for the user.
+     */
+    public function sources()
+    {
+        return $this->hasMany(Source::class);
     }
 }
