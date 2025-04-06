@@ -67,28 +67,22 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Custom Commands
 
-### FixIcsTimezone
-
-This command fetches a user's `.ics` calendar file, adjusts the timezone of events to UTC, and saves the updated file to public storage.
-
-#### Usage:
-```bash
-php artisan ics:fix-timezone {userId}
-```
-
-- **userId**: The ID of the user whose `.ics` file needs to be processed.
+### FixIcsTimezone Command
 
 #### Features:
 - Fetches the `.ics` file from the user's configured URL.
 - Adjusts event times from the original timezone to UTC.
 - Saves the updated `.ics` file to a public storage path.
 
-#### Example:
-```bash
-php artisan ics:fix-timezone 1
-```
+The `FixIcsTimezone` command is used to fetch a `.ics` file from a source, fix its timezone, and save the corrected `.ics` file.
 
----
+#### Usage
+
+Run the command by providing the `sourceId` of the source you want to process:
+
+```bash
+php artisan ics:fix-timezone {sourceId}
+```
 
 ### ConvertTzJsonToPhpArray
 
