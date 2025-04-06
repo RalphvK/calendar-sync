@@ -108,6 +108,10 @@ class FixIcsTimezone extends Command
                 $path = "ics/{$userId}/{$randomString}{$filename}";
                 Storage::disk('public')->put($path, $updatedIcsContent);
 
+                // Update the source record with the converted file path
+                $source->converted_ics_path = $path;
+                $source->save();
+
                 $this->info("Updated .ics file saved to: " . Storage::disk('public')->path($path));
             } catch (\Exception $e) {
                 $this->error('Failed to process the .ics file: ' . $e->getMessage());

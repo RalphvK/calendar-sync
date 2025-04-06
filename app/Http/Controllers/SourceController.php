@@ -38,13 +38,25 @@ class SourceController extends Controller
         $this->authorize('create', Source::class);
         
         $request->validate([
+            'title' => 'required|string|max:255', // Added title validation
             'type' => 'required|string',
             'ics_url' => 'required|url',
         ]);
 
-        Auth::user()->sources()->create($request->only('type', 'ics_url'));
+        Auth::user()->sources()->create($request->only('title', 'type', 'ics_url')); // Added title
 
         return redirect()->route('sources.index')->with('success', 'Source created successfully.');
+    }
+
+    /**
+     * Display the specified Source.
+     *
+     * @param Source $source
+     * @return \Illuminate\View\View
+     */
+    public function view(Source $source)
+    {
+        return view('sources.view', compact('source'));
     }
 
     /**
@@ -64,11 +76,12 @@ class SourceController extends Controller
         $this->authorize('update', $source);
 
         $request->validate([
+            'title' => 'required|string|max:255', // Added title validation
             'type' => 'required|string',
             'ics_url' => 'required|url',
         ]);
 
-        $source->update($request->only('type', 'ics_url'));
+        $source->update($request->only('title', 'type', 'ics_url')); // Added title
 
         return redirect()->route('sources.index')->with('success', 'Source updated successfully.');
     }

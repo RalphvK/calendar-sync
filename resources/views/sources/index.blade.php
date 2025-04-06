@@ -17,12 +17,45 @@
                             </x-primary-button>
                         </a>
                     </div>
-                    <div class="space-y-4">
+                    <div class="flex flex-col space-y-4 gap-4">
                         @foreach ($sources as $source)
-                            <div class="flex items-center justify-between border p-4 rounded-lg shadow-sm">
-                                <div class="overflow-hidden">
-                                    <p class="font-semibold">{{ __('Type:') }} {{ $source->type }}</p>
-                                    <p class="text-sm text-gray-600 break-all">{{ $source->ics_url }}</p>
+                            <div class="flex items-center justify-between border p-4 rounded-lg shadow-sm gap-3 cursor-pointer hover:bg-gray-100" onclick="window.location.href='{{ route('sources.edit', $source) }}';">
+                                <div class="overflow-hidden gap">
+                                    <div class="flex gap-3 mb-2">
+                                        <p class="font-semibold text-lg">{{ $source->title }}</p>
+                                        <p class="bg-gray-100 text-sm text-gray-600 rounded px-2 py-1 inline-block">
+                                            <span class="font-semibold">
+                                                {{ __('Type:') }} 
+                                            </span>
+                                            <span class="font-normal">
+                                                {{ $source->type }}
+                                            </span>
+                                        </p>
+                                        <p class="bg-gray-100 text-sm text-gray-600 rounded px-2 py-1 inline-block">
+                                            <span class="font-semibold">
+                                                {{ __('ID:') }} 
+                                            </span>
+                                            <span class="font-normal">
+                                                {{ $source->id }}
+                                            </span>
+                                        </p>
+                                    </div>
+                                    <p class="text-sm text-gray-600 flex gap-2">
+                                        <span class="font-semibold">
+                                            {{ __('Source:') }}
+                                        </span>
+                                        <span class="text-nowrap overflow-hidden">
+                                            {{ $source->ics_url }}
+                                        </span>
+                                    </p>
+                                    <p class="text-sm text-gray-600 flex gap-2">
+                                        <span class="font-semibold">
+                                            {{ __('Destination:') }}
+                                        </span>
+                                        <span class="text-nowrap overflow-hidden">
+                                            {{ Storage::disk('public')->url($source->converted_ics_path) }}
+                                        </span>
+                                    </p>
                                 </div>
                                 <div class="flex flex-col px-4 gap-4 ms-auto">
                                     <a href="{{ route('sources.edit', $source) }}">

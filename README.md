@@ -141,3 +141,9 @@ if ($tzid) {
 #### Notes:
 - The mapping array is loaded from the `config/windows-tzid-mapping-array.php` file.
 - Ensure the configuration file is properly set up with the required mappings.
+
+## Debugging
+
+### Tailwind classes not updating
+
+If you are using Tailwind CSS and notice that your styles are not updating as expected, try running the `npm run dev` command.
