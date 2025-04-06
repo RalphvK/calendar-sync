@@ -17,31 +17,26 @@
                             </x-primary-button>
                         </a>
                     </div>
-                    <table class="table-auto w-full">
-                        <thead>
-                            <tr>
-                                <th class="px-4 py-2">{{ __('Type') }}</th>
-                                <th class="px-4 py-2">{{ __('ICS URL') }}</th>
-                                <th class="px-4 py-2">{{ __('Actions') }}</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            @foreach ($sources as $source)
-                                <tr>
-                                    <td class="border px-4 py-2">{{ $source->type }}</td>
-                                    <td class="border px-4 py-2">{{ $source->ics_url }}</td>
-                                    <td class="border px-4 py-2">
-                                        <a href="{{ route('sources.edit', $source) }}" class="text-blue-500">{{ __('Edit') }}</a>
-                                        <form action="{{ route('sources.destroy', $source) }}" method="POST" class="inline">
-                                            @csrf
-                                            @method('DELETE')
-                                            <button type="submit" class="text-red-500">{{ __('Delete') }}</button>
-                                        </form>
-                                    </td>
-                                </tr>
-                            @endforeach
-                        </tbody>
-                    </table>
+                    <div class="space-y-4">
+                        @foreach ($sources as $source)
+                            <div class="flex items-center justify-between border p-4 rounded-lg shadow-sm">
+                                <div class="overflow-hidden">
+                                    <p class="font-semibold">{{ __('Type:') }} {{ $source->type }}</p>
+                                    <p class="text-sm text-gray-600 break-all">{{ $source->ics_url }}</p>
+                                </div>
+                                <div class="flex flex-col px-4 gap-4 ms-auto">
+                                    <a href="{{ route('sources.edit', $source) }}">
+                                        <x-secondary-button>{{ __('Edit') }}</x-secondary-button>
+                                    </a>
+                                    <form action="{{ route('sources.destroy', $source) }}" method="POST" class="inline">
+                                        @csrf
+                                        @method('DELETE')
+                                        <x-danger-button type="submit" class="text-red-500">{{ __('Delete') }}</x-danger-button>
+                                    </form>
+                                </div>
+                            </div>
+                        @endforeach
+                    </div>
                 </div>
             </div>
         </div>
