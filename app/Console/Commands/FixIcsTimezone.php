@@ -79,19 +79,6 @@ class FixIcsTimezone extends Command
                 $updatedIcsContent
             );
 
-            // Remove the VTIMEZONE block and replace TZID with the target timezone
-            $updatedIcsContent = preg_replace(
-                [
-                    '/BEGIN:VTIMEZONE.*?END:VTIMEZONE/s', // Match VTIMEZONE blocks
-                    '/TZID=[^:;]+/', // Match timezone definitions
-                ],
-                [
-                    '', // Remove VTIMEZONE blocks
-                    'TZID=Europe/Amsterdam', // Replace with Europe/Amsterdam
-                ],
-                $updatedIcsContent
-            );
-
             // Extract the random string and filename from the URL
             $parsedUrl = parse_url($source->ics_url);
             $pathParts = explode('/', ltrim($parsedUrl['path'], '/'));
