@@ -110,6 +110,7 @@ class FixIcsTimezone extends Command
 
                 // Update the source record with the converted file path
                 $source->converted_ics_path = $path;
+                $source->last_converted = now();
                 $source->save();
 
                 $this->info("Updated .ics file saved to: " . Storage::disk('public')->path($path));

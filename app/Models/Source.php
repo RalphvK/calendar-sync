@@ -16,10 +16,11 @@ class Source extends Model
      */
     protected $fillable = [
         'user_id',
-        'title', // Added title
+        'title',
         'type',
         'ics_url',
         'converted_ics_path',
+        'last_converted',
     ];
 
     /**

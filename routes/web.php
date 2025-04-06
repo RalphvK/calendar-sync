@@ -20,7 +20,7 @@ Route::middleware('auth')->group(function () {
 
 Route::middleware(['auth'])->group(function () {
     Route::resource('sources', SourceController::class);
-    Route::get('/sources/{source}', [SourceController::class, 'view'])->name('sources.view');
+    // Route::get('/sources/{source}', [SourceController::class, 'view'])->name('sources.view');
 });
 
 require __DIR__.'/auth.php';
