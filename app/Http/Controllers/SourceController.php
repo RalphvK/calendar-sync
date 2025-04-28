@@ -6,6 +6,7 @@ use App\Models\Source;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
+use Illuminate\Support\Facades\Artisan;
 
 class SourceController extends Controller
 {
@@ -95,5 +96,24 @@ class SourceController extends Controller
         $source->delete();
 
         return redirect()->route('sources.index')->with('success', 'Source deleted successfully.');
+    }
+
+    /**
+     * Convert the ICS file to UTC and save it.
+     */
+    public function convert(Source $source)
+    {
+        $this->authorize('update', $source);
+
+        // Run the artisan command to fix the timezone
+        $exitCode = Artisan::call('ics:fix-timezone', [
+            'sourceId' => $source->id,
+        ]);
+
+        if ($exitCode === 0) {
+            return redirect()->route('sources.index')->with('success', 'ICS file timezone converted successfully.');
+        }
+
+        return redirect()->route('sources.index')->with('error', 'Failed to convert ICS file timezone.');
     }
 }

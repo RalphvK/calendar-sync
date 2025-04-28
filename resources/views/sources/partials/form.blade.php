@@ -24,18 +24,6 @@
         <input type="url" name="ics_url" id="ics_url" value="{{ old('ics_url', $source->ics_url ?? '') }}" class="mt-1 block w-full border-gray-300 rounded-md shadow-sm">
     </div>
 
-    @if (isset($source))
-        <div class="mb-4">
-            <label for="converted_url" class="block text-sm font-medium text-gray-700">{{ __('Converted URL') }}</label>
-            <input type="text" id="converted_url" value="{{ $source->converted_ics_path ? Storage::disk('public')->url($source->converted_ics_path) : '' }}" readonly class="mt-1 block w-full border-gray-300 rounded-md shadow-sm bg-gray-100 text-gray-600 cursor-pointer" onclick="copyToClipboard(this)">
-            <p id="copy-feedback" class="text-sm text-green-500 hidden mt-1">{{ __('Copied to clipboard!') }}</p>
-        </div>
-        <div class="mb-4">
-            <label for="last_converted" class="block text-sm font-medium text-gray-700">{{ __('Last Converted') }}</label>
-            <input type="text" id="last_converted" value="{{ $source->last_converted ? \Illuminate\Support\Carbon::parse($source->last_converted)->format('d-m-Y H:i') : __('Never') }}" readonly class="mt-1 block w-full border-gray-300 rounded-md shadow-sm bg-gray-100 text-gray-600">
-        </div>
-    @endif
-
     <div class="flex justify-end">
         <x-primary-button>
             {{ __('Save') }}

@@ -20,6 +20,7 @@ Route::middleware('auth')->group(function () {
 
 Route::middleware(['auth'])->group(function () {
     Route::resource('sources', SourceController::class);
+    Route::post('/sources/{source}/convert', [SourceController::class, 'convert'])->name('sources.convert');
     // Route::get('/sources/{source}', [SourceController::class, 'view'])->name('sources.view');
 });
 
